@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayFair", "PayFair\PayFair.csproj", "{5C944B6B-BFCF-4070-B207-7CFF972EC55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C944B6B-BFCF-4070-B207-7CFF972EC55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C944B6B-BFCF-4070-B207-7CFF972EC55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C944B6B-BFCF-4070-B207-7CFF972EC55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C944B6B-BFCF-4070-B207-7CFF972EC55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD1A38F-C11F-4869-97E1-34280389DA8D}
+	EndGlobalSection
+EndGlobal
